@@ -71,6 +71,7 @@ body{
 
     .nav{
         font-size: 20pt;
+        justify-content: space-around;
     }
 
 }
