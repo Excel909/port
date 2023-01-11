@@ -41,9 +41,10 @@ body{
 }
 
 .scene{
-    width: 300px;
+    width: 270px;
     height: 270px;
     border: 15px solid brown;
+    background-color: brown;
     border-radius: 100%;
     position: absolute;
     top: 40%;
@@ -61,6 +62,7 @@ body{
         margin: auto;
     }
 
+    
     .contain ul{
         padding: 15px;
     }
